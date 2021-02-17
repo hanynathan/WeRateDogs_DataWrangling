@@ -14,6 +14,6 @@ WeRateDogs is a Udacity project 2 solution
 [Quickly plot correlation between multiple variables is pandas using scatter matrix.](https://pandas.pydata.org/docs/reference/api/pandas.plotting.scatter_matrix.html)  
 
 
-General Notes
+## General Notes
 1. With **[python seaborn libray](https://seaborn.pydata.org/tutorial.html)**, you can plot many different kind of charts apart.  
-2. PEP8 is the style guide for python. This style guide provides guidelines and best practices on how to write Python code to improve the readability of code and make it consistent across the wide spectrum of Python code. You can take a look at this guide [here;](https://www.python.org/dev/peps/pep-0008/) and should strive to adhere to these guidelines.  
+2. PEP8 is the style guide for python. This style guide provides guidelines and best practices on how to write Python code to improve the readability of code and make it consistent across the wide spectrum of Python code. [You can take a look at this guide here;](https://www.python.org/dev/peps/pep-0008/) and should strive to adhere to these guidelines.  
